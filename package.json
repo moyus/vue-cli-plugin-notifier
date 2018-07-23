@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-notifier",
-  "description": "",
+  "description": "Vue CLI build status system notifier",
   "version": "1.0.0",
   "main": "index.js",
   "author": "moyu <moyuboy@gmail.com>",
